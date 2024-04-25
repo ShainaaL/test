@@ -1,0 +1,72 @@
+@charset "UTF-8";
+body{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    float: none;
+}
+
+h1{
+    text-align: center;
+    color: rgb(178, 89, 117);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+li {
+    float: left;
+    border-right:1px solid #f3e7f0;
+    border-left: 1px solid #975687;
+    width: 33%;
+  }
+ 
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 103px;
+    background-color: rgb(240, 219, 237);
+    color: black;
+}
+ 
+li a:hover {
+    background-color: #c7cfd9;
+}
+
+
+div.artiste{
+    width: 43%;
+    float: right;
+}
+
+p.aya{
+    padding: 14px;
+    width: 33%;
+    text-align: center;
+    font-family: 'Marker Felt', 'fantasy';
+}
+
+p.justin{
+    padding: 14px;
+    width: 33%;
+    text-align: center;
+    font-family: 'Marker Felt', 'fantasy';
+}
+
+p.sza{
+    padding: 14px;
+    width: 33%;
+    text-align: center;
+    font-family: 'Marker Felt', 'fantasy';
+}
+
+p.tiakola{
+    padding: 14px;
+    width: 33%;
+    text-align: center;
+    font-family: 'Marker Felt', 'fantasy';
+}

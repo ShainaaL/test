@@ -1,0 +1,62 @@
+h1.TITRE_SITE{
+    text-align: center;
+    font-family: Stencil Std, fantasy;
+}
+
+ul.menuUL{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    width:100%;
+}
+
+li.menu{
+    float: left;
+    width:33%;
+  }
+ 
+li.menu a {
+    display: block;
+    text-align: center;
+    padding: 14px 103px;
+    background-color: rgb(171, 196, 201);
+    color: black;
+}
+ 
+li.menu a:hover {
+    background-color: #1d4e89;
+}
+
+body{
+    ;
+}
+
+
+h2.centre{
+    text-align: center;
+    font-family: Chalkduster, fantasy;
+}
+
+div.album_art{
+    float:left;
+    width:50%;
+    text-align: center;
+}
+
+img.alb_img{
+    width:400px;
+    height: 400px;
+}
+
+h4.nom_ART{
+    text-align: center;
+    font-family: Chalkduster, fantasy;
+}
+
+div.album_pres{
+    width:50%;
+}
+
+img.alb_cov{
+    float:left;
+}

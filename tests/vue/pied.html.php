@@ -1,0 +1,1 @@
+<a href="./?action=conditiong">Mention légale</a>
